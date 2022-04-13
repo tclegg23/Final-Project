@@ -5,7 +5,7 @@ h1{
 
 h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: black;
+    color: rgb(10, 10, 86);
     text-align: center;
 }
 
@@ -15,11 +15,13 @@ span{
 
 a{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(20, 20, 95);
 }
 
 ol{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    color: rgb(20, 20, 95);
 }
 
 ul{
@@ -35,12 +37,14 @@ p{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bold;
+    color: rgb(20, 20, 95);
 }
 
 .anchor {
     text-align: left;
     text-decoration: underline;
     font-weight: bold;
+    color: rgb(20, 20, 95);
 }
 
 /*.common {
