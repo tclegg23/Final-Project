@@ -1,0 +1,59 @@
+/*Tyler Clegg 4/12/22*/
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(10, 10, 100);
+    text-align: center;
+}
+
+span{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: disc;
+    font-weight: lighter;
+}
+
+iframe{
+    padding-left: 10px;
+}
+
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.anchor {
+    text-align: left;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+/*.common {
+    background-color: aquamarine;
+    border: solid 2px black;
+}*/
+
+.media {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.outlink {
+    text-decoration: underline;
+}
